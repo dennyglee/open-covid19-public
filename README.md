@@ -24,3 +24,7 @@ Some good resources that you can refer to:
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 * [Data Science for COVID-19 (DS4C)](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 * [COVID-19 Data Research](https://github.com/dlfreriks/Covid19-Data-Research)
+
+## Interesting Papers
+* [Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)
+* [SARS Epidemiology Modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3323156/)
