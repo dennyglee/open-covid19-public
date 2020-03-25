@@ -29,7 +29,7 @@ Some good resources that you can refer to:
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 * [Data Science for COVID-19 (DS4C)](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-* [COVID-19 Data Research](https://github.com/dlfreriks/Covid19-Data-Research)
+* [COVID-19 Data Research](https://github.com/dlfreriks/Covid19-Data-Research) including [dashboard](https://pe.qlik.com/sense/app/461ae7bb-0091-454f-9519-9835af3b8019/sheet/92c809cd-7a99-4b2f-b053-6198dda1ddab/state/analysis) (ignore access error, just click on a country) and [data source](https://www.dropbox.com/sh/j2xzy9gdduxm203/AADMnF-0RIibcEEB0RFFCE59a?dl=0) updated every 10min.
 
 ## Interesting Papers
 * [Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)
