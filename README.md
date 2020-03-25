@@ -10,8 +10,9 @@ Childrens hospitals are asking for advice and data as their region has more case
   - e.g. elective procedures are not the same for adults and children.  When is a procedure elective in children?
 
 ## Get Started
-<img src="https://secure.meetupstatic.com/photos/event/a/5/8/9/highres_489822377.jpeg" width=500/>
-[Analyzing COVID-19: Can the Data Community Help?](https://www.youtube.com/watch?v=A0uBdY4Crlg)
+<a href="https://www.youtube.com/watch?v=A0uBdY4Crlg" target="_blank"><img src="https://secure.meetupstatic.com/photos/event/a/5/8/9/highres_489822377.jpeg" width=500/><br/>
+Analyzing COVID-19: Can the Data Community Help?</a>
+
 
 ## Resources
 Some good resources that you can refer to:
