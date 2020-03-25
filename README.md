@@ -9,6 +9,12 @@ Childrens hospitals are asking for advice and data as their region has more case
 - guidelines of care are different for adults vs children, help define standards of care:
   - e.g. elective procedures are not the same for adults and children.  When is a procedure elective in children?
 
+## Before We Start
+Performing data analysis on COVID-19 datasets can potentially be quite helpful.  But before we start, remember to **wash your hands, stay at home, and social distancing**.  If you need to go out
+
+<a href="https://www.kingcounty.gov/covid" target="_blank">
+<img src="https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/~/media/depts/health/communicable-diseases/images/covid/covid-19-banner-social-distancing.ashx"></a>
+
 ## Get Started
 <a href="https://www.youtube.com/watch?v=A0uBdY4Crlg" target="_blank"><img src="https://secure.meetupstatic.com/photos/event/a/5/8/9/highres_489822377.jpeg" width=500/><br/>
 Analyzing COVID-19: Can the Data Community Help?</a>
