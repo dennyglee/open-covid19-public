@@ -23,7 +23,9 @@ Analyzing COVID-19: Can the Data Community Help?</a>
 ## Resources
 Some good resources that you can refer to:
 * [Coronavirus in the United States: Mapping the COVID-19 outbreak](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) including downloadable data sources
+* [COVID-19 projections assuming full social distancing through May 2020](https://covid19.healthdata.org/projections)
 * [Washington State 2019 Novel Coronavirus Outbreak (COVID-19)](https://www.doh.wa.gov/Emergencies/Coronavirus)
+* [Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data)
 * [Seattle Children's Novel Coronavirus COVID-19 Daily Update of Confirmed Cases](http://schdatascience.org)
 * [Definitive Healthcare: USA Hospital Beds](https://coronavirus-resources.esri.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds?geometry=92.988%2C-16.820%2C-117.950%2C72.123)
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
